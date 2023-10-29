@@ -1,0 +1,4 @@
+fastapi[all]
+Uvicorn
+python-multipart
+shutil
