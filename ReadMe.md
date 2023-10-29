@@ -3,6 +3,8 @@
 
 # Run app by terminal (Can't debug)
  **uvicorn main:app --reload** 
+ if want to run from outer/Main folder
+ **uvicorn modules.main:app --reload**
  
 # Run app by Pycharm Shell Settings
 * Make sure in specific location your main.py should exist with @app decorator
