@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+
+#ignorables
+bin
+lib
+.idea/
+__pycache__
+pyvenv.cfg
